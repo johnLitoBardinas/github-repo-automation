@@ -173,4 +173,4 @@ Free to use and modify for your own purposes.
 - Test with a few repositories first if unsure
 - Double-check which repositories will be affected
 
-The author (JLBardinas)[www.jlbardinas.com] is not responsible for any data loss resulting from the use of these scripts.
+The author [JLBardinas](www.jlbardinas.com) is not responsible for any data loss resulting from the use of these scripts.
