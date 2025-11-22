@@ -1,0 +1,86 @@
+✓ [1/46] Deleted: arboreal
+✓ [2/46] Deleted: awesome-cheatsheets
+✓ [3/46] Deleted: awesome-php
+✓ [4/46] Deleted: aws-refarch-wordpress
+✓ [5/46] Deleted: cgminer
+✓ [6/46] Deleted: Clean-Code-Notes
+✓ [7/46] Deleted: clean-code-php
+✓ [8/46] Deleted: ColorGamePinoy
+✓ [9/46] Deleted: computer-science
+✓ [10/46] Deleted: Dent-Clack-JL
+✓ [11/46] Deleted: design-resources-for-developers
+✓ [12/46] Deleted: docker-compose-wordpress-asch
+✓ [13/46] Deleted: docker101
+✓ [14/46] Deleted: docmost
+✓ [15/46] Deleted: electron-course-files
+✓ [16/46] Deleted: frontend
+✓ [17/46] Deleted: gutenberg
+✓ [18/46] Deleted: hooks
+✓ [19/46] Deleted: Hunyuan3D-1
+✓ [20/46] Deleted: Hyprland
+✓ [21/46] Deleted: javascript
+✓ [22/46] Deleted: laravel-best-practices
+✓ [23/46] Deleted: laraveltherightway.github.io
+✓ [24/46] Deleted: mkcert
+✓ [25/46] Deleted: normalize.css
+✓ [26/46] Deleted: official-images
+✓ [27/46] Deleted: open-saas
+✓ [28/46] Deleted: open-source-cs
+✓ [29/46] Deleted: openldap
+✓ [30/46] Deleted: philippine-regions-provinces-cities-municipalities-barangays
+✓ [31/46] Deleted: PHP
+✓ [32/46] Deleted: php-malware-finder
+✓ [33/46] Deleted: query
+✓ [34/46] Deleted: responsively-app
+✓ [35/46] Deleted: rybbit
+✓ [36/46] Deleted: solid-principles
+✓ [37/46] Deleted: standard
+✓ [38/46] Deleted: StandWithUkraine
+✓ [39/46] Deleted: start-here-guidelines
+✓ [40/46] Deleted: tech-interview-handbook
+✓ [41/46] Deleted: udemy-docker-mastery
+✓ [42/46] Deleted: ui-element-samples
+✓ [43/46] Deleted: vidly-mvc-5
+✓ [44/46] Deleted: webrtc-for-the-curious
+✓ [45/46] Deleted: What-The-Flexbox
+✓ [46/46] Deleted: wordpress-nginx-docker-compose
+
+
+---------
+
+Type 'MAKE PRIVATE' to confirm: MAKE PRIVATE
+
+Making repositories private...
+
+✗ [1/26] Failed: ColorGamePinoy - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#update-a-repository", "status": "404"}
+✗ [2/26] Failed: LenghtConverter - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#update-a-repository", "status": "404"}
+✓ [3/26] Made private: angulove
+✓ [4/26] Made private: API_SKELETON
+✓ [5/26] Made private: bts4
+✓ [6/26] Made private: buck
+✓ [7/26] Made private: caddy
+✓ [8/26] Made private: create_docker_local_setup
+✓ [9/26] Made private: form-wizard
+✓ [10/26] Made private: imageshrink
+✓ [11/26] Made private: johnLitoBardinas
+✓ [12/26] Made private: johnLitoBardinas.github.io
+✓ [13/26] Made private: library-example
+✓ [14/26] Made private: lumenapi
+✓ [15/26] Made private: Modern-WordPress-Docker-Setup
+✓ [16/26] Made private: MultiParallax
+✓ [17/26] Made private: mywebsite
+✓ [18/26] Made private: q8api
+✓ [19/26] Made private: sigvaSpecialProjet
+✓ [20/26] Made private: studentClearance
+✓ [21/26] Made private: Tokyo
+✓ [22/26] Made private: TSLove
+✓ [23/26] Made private: udemy_rest
+✓ [24/26] Made private: Udemy_Resting
+✓ [25/26] Made private: wp
+✗ [26/26] Failed: zphen-app - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#update-a-repository", "status": "404"}
+
+============================================================
+Summary:
+  ✓ Made private: 23
+  ✗ Failed: 3
+============================================================
